@@ -1,0 +1,7 @@
+d=/mnt/c/Users/User/Desktop
+
+alias open=xdg-open
+alias open-d=$d/dir/sh/command/open_directory.sh
+alias mvdl=$d/dir/sh/command/move_downloads.sh
+
+cd $d
